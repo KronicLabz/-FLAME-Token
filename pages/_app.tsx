@@ -16,7 +16,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
           name="description"
-          content="thirdweb Example Repository to Showcase the token drop contract, including claim and transfer features."
+          content="The Official HawtHeadZzNFT token, $FLAME a passive token accumulated by holding HawtHeadZz Official Token can be used on the HawtHeadZz shop to purchase Raffles for WL’s, NFT raffles and also IRL collectibles! SHOP under construction!"
         />
         <meta
           name="keywords"
